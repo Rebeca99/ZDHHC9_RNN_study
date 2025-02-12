@@ -1,4 +1,4 @@
-The current Jupyter Notebook shows the RNN modelling pipeline.
+The MEG_RNN_modelling.ipynb Jupyter Notebook shows the RNN modelling pipeline.
 
 DATA used for RNN training (as labels):
 - The empirical data used as RNN labels is private (sensitive data) and it reflects group-level MEG-derived AEF responses for the Control and ZDHHC9 groups. Prior to RNN modelling, the MEG data was preprocessed with MNE Python (version 1.0.3)
